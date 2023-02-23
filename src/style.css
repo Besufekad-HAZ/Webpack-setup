@@ -1,0 +1,9 @@
+body {
+  background-color: bisque;
+}
+.hello {
+  color: black;
+  background: url("./todo-img.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
